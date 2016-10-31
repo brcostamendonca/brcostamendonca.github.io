@@ -1,0 +1,46 @@
+* {
+  font-family: 'Georgia', 'Times', serif;
+}
+
+
+
+a {
+  color: SeaGreen;
+  text-decoration: none;
+  text-align: center;
+}
+
+img {
+  <!-- border-radius: 100%; 
+  
+}
+
+h1 {
+color: Red;
+font-size: 50 px;
+  background-image: url("http://www.globalmediabank.com/images/Company_Background.jpg");
+   height: 150px;  
+ /* background-position: center center; */
+  background-size: 600px 200px;             
+    background-repeat:   no-repeat;
+	/* text-align: center; */
+    
+}
+
+
+p {
+color: FireBrick;
+  font-size: 18px;
+/*  text-align: center; */
+}
+ ul, ol {
+  color: DarkSlateGray;
+  /* text-align: center; */
+}
+
+h3 {
+color: Blue;
+  font-size: 23px;
+ /* text-align: center; */
+}
+
